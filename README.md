@@ -1,1 +1,1 @@
-<iframe src='https://tradingeconomics.com/embed/?s=ukueilor&v=202411120734V20230410&h=220&w=350&ref=/united-kingdom/unemployment-rate' height='220' width='350'  frameborder='0' scrolling='no'></iframe>
+<iframe src='https://tradingeconomics.com/embed/?s=neuetotr&v=202411210540V20230410&h=220&w=350&ref=/netherlands/unemployment-rate&type=column&d1=2023-11-01&d2=2024-10-31' height='220' width='350'  frameborder='0' scrolling='no'></iframe>
